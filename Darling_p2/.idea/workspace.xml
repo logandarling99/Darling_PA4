@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fdf51c65-8562-4c74-a512-1a08db6de06f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/Darling_p1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/Problem1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/out/production/Darling_p1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/out/production/Darling_p1/DuplicateRemover.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/src/DuplicateRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Darling_p1/unique_words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Darling_p2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Darling_p2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Darling_p2/DuplicateCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DuplicateCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unique_word_counts.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T5GJztZWpP5bvQGgFGYkZemOMM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Darling_p2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fdf51c65-8562-4c74-a512-1a08db6de06f" name="Default Changelist" comment="" />
+      <created>1572742474623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572742474623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
